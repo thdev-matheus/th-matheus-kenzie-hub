@@ -35,30 +35,6 @@ https://th-matheus-kenzie-hub.vercel.app/
 Aplicação desenvolvida no 3º módulo do curso de desenvolvimento full stack da Kenzie Academy Brasil que é basicamente um perfil onde você poderá cadastrar as tecnologias que você estuda ou domina e selecionar o nível de proficiência em cada uma delas.
 Também é possível editar e excluir os cards já criados.
 
-<!-- ### Ajustes e melhorias
-
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
-- [x] Criação de ambiente inicial com formu
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
- -->
-
-<!-- ## ☕ Usando o /sucesso
-
-Para usar o /sucesso, siga estas etapas:
-
-- Preencha o formulário de forma mais detalhada possível;
-- Clique em finalizar;
-- No canal do seu facilitador no slack, digite /pergunta;
-- Copie e cole o texto do campo pergunta do /sucesso;
-- No seu slack clique para inserir o bloco de código;
-- Copie e cole o texto do campo bloco de código do /sucesso;
-- Envie o /pergunta;
-- Por fim, copie e cole o texto do campo informações adicionais do /sucesso;
-- Aguarde um ótimo atendimeto; -->
 
 <br/>
 
